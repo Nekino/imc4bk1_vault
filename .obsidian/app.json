@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "10_Images",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
