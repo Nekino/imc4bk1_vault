@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_Stundenmitschrift/Git und Github.md",
+                "file": "50_Stundenmitschrift/2023 11 07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "50_Stundenmitschrift/Git und Github.md",
+                "file": "50_Stundenmitschrift/2023 11 07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50_Stundenmitschrift/Git und Github.md",
+                "file": "50_Stundenmitschrift/2023 11 07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50_Stundenmitschrift/Git und Github.md",
+                "file": "50_Stundenmitschrift/2023 11 07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50_Stundenmitschrift/Git und Github.md"
+                "file": "50_Stundenmitschrift/2023 11 07.md"
               }
             }
           },
@@ -215,16 +215,16 @@
   },
   "active": "2f98f66b2c7eccf2",
   "lastOpenFiles": [
+    "50_Stundenmitschrift/2023-10-24.md",
+    "50_Stundenmitschrift/Git und Github.md",
     "IMC_vault",
     "30_Beispieldoku/01_lightsON.md",
-    "50_Stundenmitschrift/Git und Github.md",
     "30_Beispieldoku/Javascript.md",
     "40_Themen/Einstieg Javascript.md",
     "40_Themen/Obsidian.md",
     "50_Stundenmitschrift/2023 11 07.md",
     "50_Stundenmitschrift/2023-09-26.md",
     "50_Stundenmitschrift/2023-10-17.md",
-    "50_Stundenmitschrift/2023-10-24.md",
     "30_Beispieldoku/index.html",
     "10_Images/2023-10-17 08_53_07-Greenshot.greenshot",
     "40_Themen/Einsatz von eigenen CSS-Snippets.md",
@@ -240,7 +240,6 @@
     "30_Beispieldoku",
     "10_Images",
     "20_Materialien",
-    "Neuer Ordner",
-    "10_Ressources"
+    "Neuer Ordner"
   ]
 }
