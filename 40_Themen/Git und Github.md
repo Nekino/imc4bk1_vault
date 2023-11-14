@@ -10,3 +10,8 @@
 4. Nach Änderungen Lokal:
 	1. Commit - Mit Betreff und Beschreibung - Änderungen werden im lokalen git-Verzeichnis aufgenommen
 	2. Push (Ein oder mehrere Commits) - Änderungen werden auf github.com (o.ä) übermittelt
+
+Wurden lokale Commits getätigt, so sieht das UI von Github Desktop folgendermaßen aus:
+- No local changes
+- You have xx local commits waiting to be pushed to GitHub
+![[Pasted image 20231114081702.png]]
