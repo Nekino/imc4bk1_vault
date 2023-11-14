@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_Stundenmitschrift/2023 11 07.md",
+                "file": "40_Themen/Git und Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "50_Stundenmitschrift/2023 11 07.md",
+                "file": "40_Themen/Git und Github.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50_Stundenmitschrift/2023 11 07.md",
+                "file": "40_Themen/Git und Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50_Stundenmitschrift/2023 11 07.md",
+                "file": "40_Themen/Git und Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50_Stundenmitschrift/2023 11 07.md"
+                "file": "40_Themen/Git und Github.md"
               }
             }
           },
@@ -215,14 +215,17 @@
   },
   "active": "2f98f66b2c7eccf2",
   "lastOpenFiles": [
+    "50_Stundenmitschrift/2023-11-14.md",
+    "40_Themen/Git und Github.md",
+    "50_Stundenmitschrift/14.11.2023.md",
     "50_Stundenmitschrift/2023-10-24.md",
+    "50_Stundenmitschrift/2023 11 07.md",
     "50_Stundenmitschrift/Git und Github.md",
     "IMC_vault",
     "30_Beispieldoku/01_lightsON.md",
     "30_Beispieldoku/Javascript.md",
     "40_Themen/Einstieg Javascript.md",
     "40_Themen/Obsidian.md",
-    "50_Stundenmitschrift/2023 11 07.md",
     "50_Stundenmitschrift/2023-09-26.md",
     "50_Stundenmitschrift/2023-10-17.md",
     "30_Beispieldoku/index.html",
